@@ -46,15 +46,17 @@
 <h2>👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-<div width="100%" align="center">
-  <a max-width="300px" href="https://github.com/MarcusVNT/fancywatches.github.io" title="Fancy Watches"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=fancywatches.github.io&theme=react&border_color=61dafb&border_radius=10"></a><a max-width="300px" href="https://github.com/MarcusVNT/dio-lab-open-source" title="dio-lab-open-source"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=dio-lab-open-source&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="left">
+  <a href="https://github.com/MarcusVNT/fancywatches.github.io" title="Fancy Watches"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=fancywatches.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<div width="100%" align="center">
-  <a href="https://github.com/MarcusVNT/dio-lab-open-source" title="dio-lab-open-source"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=dio-lab-open-source&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="left">
+      <a href="https://github.com/MarcusVNT/dio-lab-open-source" title="dio-lab-open-source"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=dio-lab-open-source&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
-<div width="100%" align="center">
-  <a href="https://github.com/MarcusVNT/first_project_flutter_dio" title="First Project Flutter DIO"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=first_project_flutter_dio&theme=react&border_color=61dafb&border_radius=10"></a><a  href="https://github.com/MarcusVNT/marcusvnt.github.io" title="Portifólio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=marcusvnt.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="left">
+       <a href="https://github.com/MarcusVNT/first_project_flutter_dio" title="First Project Flutter DIO"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=first_project_flutter_dio&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="left">
+<a  href="https://github.com/MarcusVNT/marcusvnt.github.io" title="Portifólio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=marcusvnt.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
