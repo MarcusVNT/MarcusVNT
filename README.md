@@ -40,6 +40,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusVNT&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
