@@ -32,15 +32,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width=390 src="https://github-readme-stats.vercel.app/api?username=MarcusVNT&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
   </div>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVNT&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=128&layout=compact&border_color=61dafb&hide_border=true" /></a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusVNT&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
