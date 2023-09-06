@@ -1,7 +1,7 @@
 <h1>Hello World! I'm Marcus Vinícius</h1>
 
 <h2>About Me:</h2>
-      <p margin-botton="8px">Hi, I’m Marcus Vinícius, a 29-year-old technology enthusiast from Barbacena, Minas Gerais. Currently, I am treading my path in the area of Software Engineering at the renowned institution Estácio de Sá. My passion for programming and innovation led me to focus on mobile app development. I believe that every line of code written is an opportunity to turn ideas into reality, and I am committed to deepening my knowledge in this exciting field. I look forward to contributing to the creation of solutions that simplify and enrich people’s lives through technology. Let’s go together on the journey to build an exciting digital future!</p>
+      <p margin-botton="8px">Hi, I'm Marcus Vinícius, a 29-year-old technology enthusiast from Barbacena, Minas Gerais. I'm currently studying Software Engineering at the renowned Estácio de Sá institution. My passion for programming and innovation led me to focus on front-end and mobile development. I believe that every line of code written is an opportunity to turn ideas into reality, and I am committed to deepening my knowledge in this exciting area. I look forward to contributing to the creation of solutions that simplify and enrich people's lives through technology. Let's go on the journey together to build an exciting digital future!</p>
      <div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br></div> 
 <hr>
 <h2>Connect With Me:</h2>
@@ -33,26 +33,4 @@
       <img width=390 src="https://github-readme-stats.vercel.app/api?username=MarcusVNT&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
   </div>
 
-<hr>
-
-<h2>👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<div width="100%" align="left">
-  <a href="https://github.com/MarcusVNT/fancywatches.github.io" title="Fancy Watches"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=fancywatches.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="left">
-      <a href="https://github.com/MarcusVNT/dio-lab-open-source" title="dio-lab-open-source"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=dio-lab-open-source&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="left">
-       <a href="https://github.com/MarcusVNT/first_project_flutter_dio" title="First Project Flutter DIO"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=first_project_flutter_dio&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="left">
-<a  href="https://github.com/MarcusVNT/marcusvnt.github.io" title="Portifólio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVNT&repo=marcusvnt.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-
-<h4 align="center" width="100%">
-  <a href="(https://github.com/MarcusVNT?tab=repositories)" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 <hr>
