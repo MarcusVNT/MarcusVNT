@@ -6,7 +6,7 @@
 <hr>
 <h2>Connect With Me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcus-vnt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcusvnt/)
 [![Twitter](https://img.shields.io/badge/Twitter-222?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram)](https://www.instagram.com/marcusvnt/)
 [![Discord](https://img.shields.io/badge/Discord-222?style=for-the-badge&logo=discord)](https://www.discord.com/in/marcusvnt/)
