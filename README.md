@@ -29,7 +29,6 @@ Acredito que cada linha de código escrita é uma oportunidade para transformar 
 <h2>⚡ Stats ⚡</h2>
 
   <div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcusVNT&theme=everforest-dark)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MarcusVNT&theme=everforest-dark" alt="GitHub Streak" /></a>
   </div>
-
 <hr>
