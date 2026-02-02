@@ -9,22 +9,36 @@ Acredito que cada linha de código escrita é uma oportunidade para transformar 
 <h2>Connect With Me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcusvnt/)
-[![Twitter](https://img.shields.io/badge/Twitter-222?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram)](https://www.instagram.com/marcusvnt/)
-[![Discord](https://img.shields.io/badge/Discord-222?style=for-the-badge&logo=discord)](https://www.discord.com/in/marcusvnt/)
-[!]: https://custom-icon-badges.demolab.com/badge/Minas Gerais-BR-purple?style=for-the-badge&logo=location&logoColor=white
+[![Location](https://img.shields.io/badge/Minas_Gerais-Br-blue?style=for-the-badge&logo=location&logoColor=white)](https://pt.wikipedia.org/wiki/Minas_Gerais)
+[![Repository](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://marcusvnt-portfolio.vercel.app/)
 <hr>
-<h2 margin-top="16px"> 🔥 Skills: 🔥 </h2>
+<h2 margin-top="16px"> 🔥 Tools: 🔥 </h2>
 
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-222?style=flat&logo=html5)
+![Markdown](https://img.shields.io/badge/Markdown-222?style=flat&logo=markdown)
+![Css](https://img.shields.io/badge/CSS3-222?style=flat&logo=css)
+![Javascript](https://img.shields.io/badge/JavaScript-222?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C%2B%2B-222?style=flat&logo=c%2B%2B)
+![Dart](https://img.shields.io/badge/Dart-222?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-222?style=flat&logo=Flutter)
+![Git](https://img.shields.io/badge/GIT-222?style=flat&logo=git)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-222?style=flat&logo=visual%20studio%20code)
+![React](https://img.shields.io/badge/React-222?logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-222?logo=tailwindcss)
+![Material-ui](https://img.shields.io/badge/Material_UI-222?logo=material.ui)
+![TypeScript](https://img.shields.io/badge/TypeScript-222?logo=typescript)
+![N8N](https://img.shields.io/badge/N8N-222?logo=n8n)
+![ESLint](https://img.shields.io/badge/ESLint-222?logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-222?logo=prettier)
+![Next.JS](https://img.shields.io/badge/Next_JS-222?logo=next.js)
+![Node.JS](https://img.shields.io/badge/Node_JS-222?logo=node.js)
+![Axios](https://img.shields.io/badge/Axios-222?logo=axios)
+![API Rest](https://img.shields.io/badge/API_Restful-222?logo=api)
+![Insomnia](https://img.shields.io/badge/Insomnia-222?logo=insomnia)
+![ISQLite](https://img.shields.io/badge/SQLite-222?logo=sqlite)
+![Notion](https://img.shields.io/badge/Notion-222?logo=notion)
+![Trello](https://img.shields.io/badge/Trello-222?logo=trello)
+![Scrum](https://img.shields.io/badge/Scrum-222?logo=scrum)
 <hr>
 
 <h2>⚡ Stats ⚡</h2>
