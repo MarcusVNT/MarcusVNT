@@ -12,6 +12,7 @@ Acredito que cada linha de código escrita é uma oportunidade para transformar 
 [![Twitter](https://img.shields.io/badge/Twitter-222?style=for-the-badge&logo=twitter)](https://twitter.com/SEUUSERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram)](https://www.instagram.com/marcusvnt/)
 [![Discord](https://img.shields.io/badge/Discord-222?style=for-the-badge&logo=discord)](https://www.discord.com/in/marcusvnt/)
+[!]: https://custom-icon-badges.demolab.com/badge/Minas Gerais-BR-purple?style=for-the-badge&logo=location&logoColor=white
 <hr>
 <h2 margin-top="16px"> 🔥 Skills: 🔥 </h2>
 
